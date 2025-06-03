@@ -2,7 +2,7 @@
 
 **`desenvolvedor back-end`**
 
-Me chamo Guilherme Tonelli , tenho 20 anos e sou natural de Sao paulo . Concluí o ensino médio no Mesquita . Atualmente, estou cursando Sistemas de Informação na FIAP. Sou apaixonado por tecnologia 
+Me chamo Guilherme Tonelli , tenho 20 anos e sou natural de Sao paulo . Concluí o ensino médio no Colegio  Mesquita . Atualmente, estou cursando Sistemas de Informação na FIAP. Sou apaixonado por tecnologia 
 
 ### 🤖 Linguagens e Tecnologias
 
